@@ -3,3 +3,5 @@
 
 Para ejecutar ingresa el siguiente comando:
 ```npm intall```
+
+sistema de registro 2
